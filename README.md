@@ -48,16 +48,16 @@ A free, simple, and powerful **Chrome Extension** that scrapes business contact 
 
 
 ### 🔍 Open Google Maps
-![Screenshots](Screenshots/Screenshot%202025-06-20%20051921.png)
+![Screenshot](Screenshots/Screenshot%202025-06-20%20051921.png)
 
 ### 🧩 Search Keyword move all the way down in list & Popup UI
-![Screenshots](Screenshots/Screenshot%202025-06-20%20052013.png)
+![Screenshot](Screenshots/Screenshot%202025-06-20%20052013.png)
 
 ### 📋 Click Scrap Google Maps and see Extracted Details 
-![Screenshots](Screenshots/Screenshot%202025-06-20%20052048.png)
+![Screenshot](Screenshots/Screenshot%202025-06-20%20052048.png)
 
 ### 🧭 Name File and download CSV file
-![Screenshots](Screenshots/Screenshot%202025-06-20%20052124.png)
+![Screenshot](Screenshots/Screenshot%202025-06-20%20052124.png)
 
 ### ✅ Final Output of downloaded CSV file
 ![Screenshot](Screenshots/Screenshot%202025-06-20%20052242.png)
